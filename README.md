@@ -1,2 +1,3 @@
-# Resolucao-Desafio-Academia-Capgemini
- Resolução dos exercícios 
+# Resolução do desafio de programação Academia Capgemini
+## Tecnologias utilizadas
+- Python3 
